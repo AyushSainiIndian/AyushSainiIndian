@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AyushSainiIndian
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning class 10
+- 🌱 I’m currently learning class 11
+- 😎 I'm Learning python
 - 📫 How to reach me dm me
 
 <!---
